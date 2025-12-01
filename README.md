@@ -6,5 +6,5 @@ Este es el código fuente de mi página web personal, donde comparto **mis proye
 
 **Tecnólogo en Desarrollo de Software en Formación | Desarrollador Web Junior** 
 
-🌐 Acerca de Mí Soy un **estudiante de Tecnología en Desarrollo de Software** apasionado por la **creación de soluciones tecnológicas que facilitan la vida de las personas**.
+Acerca de Mí Soy un **estudiante de Tecnología en Desarrollo de Software** apasionado por la **creación de soluciones tecnológicas que facilitan la vida de las personas**.
 Me gusta aprender constantemente y aplicar mis conocimientos en proyectos prácticos que me ayuden a crecer profesionalmente.
