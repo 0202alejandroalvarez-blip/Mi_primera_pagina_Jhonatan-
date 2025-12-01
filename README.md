@@ -16,7 +16,7 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos práct
 README.md es un archivo común en repositorios de código (como en Git) que explica el proyecto. El ".md" indica que está escrito en Markdown, lo que permite:
 Formatear texto con elementos simples como encabezados (#), listas (-), enlaces ( texto ), y código ( código).
 # Título principal
-Este es un párrafo con **negrita** y *cursiva*.
+Este es un párrafo con **negrilla** y *cursiva*.
 - Lista de elementos
 - Otro elemento
 
