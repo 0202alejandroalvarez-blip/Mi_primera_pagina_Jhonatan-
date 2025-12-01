@@ -1,5 +1,8 @@
 ¡Hola! Soy **Jhonatan Alejandro Quiceno Alvarez** 
 
+<img width="190" height="305" alt="image" src="https://github.com/user-attachments/assets/c9225973-d5c3-4b5e-bb2c-d89bc1dc4aa0" />
+
+
 ¡Bienvenido a mi rincón digital!
 
 Este es el código fuente de mi página web personal, donde comparto **mis proyectos, mi aprendizaje y mis ideas sobre desarrollo de software**. 
