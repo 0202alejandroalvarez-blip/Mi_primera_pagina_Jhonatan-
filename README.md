@@ -2,7 +2,7 @@
 
 <img width="188" height="303" alt="image" src="https://github.com/user-attachments/assets/8130481a-3fa9-4318-9fab-a6a1d6d470e6" />
 
-¡Bienvenido a mi rincón digital!
+*¡Bienvenido a mi rincón digital!*
 
 **Acerca de Mí**
 
@@ -10,11 +10,11 @@ Soy estudiante de Tecnología en Desarrollo de Software, un apasionado por la cr
 
 En este repositorio encontrarás el código fuente de mi página web personal, un espacio donde comparto mis proyectos, experiencias y aprendizajes relacionados con el desarrollo de software.
 
-Tecnólogo en Desarrollo de Software en Formación | Desarrollador Web Junior
+**Tecnólogo en Desarrollo de Software en Formación | Desarrollador Web Junior**
 
 Muchas personas se preguntan:
 
-¿Qué es un Tecnólogo en Desarrollo de Software?
+**¿Qué es un Tecnólogo en Desarrollo de Software?**
 
 Se trata de un profesional que cursa un programa técnico o tecnológico, normalmente de 2 a 3 años, enfocado en habilidades prácticas para diseñar, construir y mantener aplicaciones. Este tipo de formación no es tan extensa como una Ingeniería de Sistemas, pero sí ofrece una sólida preparación para desempeñarse en el mundo del desarrollo.
 
@@ -78,8 +78,6 @@ Formatear texto con elementos simples como encabezados (#), listas (-), enlaces 
 # Título principal
 Este es un párrafo con **negrita** y *cursiva*.
 - Lista de elementos
-- Otro elemento
-
-- 
+- Otro elemento. 
 
 
