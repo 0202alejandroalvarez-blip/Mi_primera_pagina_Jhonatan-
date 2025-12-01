@@ -1,6 +1,7 @@
 ¡Hola! Soy **Jhonatan Alejandro Quiceno Alvarez** 
 
-<img width="190" height="305" alt="image" src="https://github.com/user-attachments/assets/c9225973-d5c3-4b5e-bb2c-d89bc1dc4aa0" />
+<img width="188" height="303" alt="image" src="https://github.com/user-attachments/assets/8130481a-3fa9-4318-9fab-a6a1d6d470e6" />
+
 
 
 ¡Bienvenido a mi rincón digital!
