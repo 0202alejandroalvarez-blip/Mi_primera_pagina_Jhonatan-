@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi rincón digital!
 
-Este es el código fuente de mi página web personal, donde comparto **mis proyectos, mi aprendizaje y mis ideas sobre desarrollo de software**. 🚀 
+Este es el código fuente de mi página web personal, donde comparto **mis proyectos, mi aprendizaje y mis ideas sobre desarrollo de software**. 
 
 **Tecnólogo en Desarrollo de Software en Formación | Desarrollador Web Junior** 
 
